@@ -6,3 +6,6 @@ class Dog
     @name
   end
 end
+
+person = Dog.new("Fido")
+puts person.name
