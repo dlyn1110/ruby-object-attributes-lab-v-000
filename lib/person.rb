@@ -3,8 +3,8 @@ class Person
     @name
 end
 
-  def name=(name)
-    @name = name
+  def name=(her_name)
+    @name = her_name
 end
 
  def job
