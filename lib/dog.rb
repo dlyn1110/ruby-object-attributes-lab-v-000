@@ -8,5 +8,5 @@ class Dog
 end
 
 beagle = Dog.new
-snoopy.breed = "Beagle"
+snoopy.name = "Beagle"
 puts beagle.name
