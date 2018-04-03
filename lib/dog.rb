@@ -9,4 +9,4 @@ end
 
 beagle = Dog.new
 snoopy.breed = "Beagle"
-
+puts beagle.name
